@@ -1,3 +1,6 @@
 destination: docs
 include:
  - _content
+sass:
+  load_paths:
+    - _sass
