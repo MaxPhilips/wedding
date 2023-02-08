@@ -1,4 +1,14 @@
 - name: Home
   link: /
-- name: About
-  link: /_content/about.html
+- name: Event Details
+  link: /_content/event_details.html
+- name: Schedule
+  link: /_content/schedule.html
+- name: Accomodations
+  link: /_content/accomodations.html
+- name: Registry
+  link: /_content/registry.html
+- name: RSVP
+  link: /_content/rsvp.html
+- name: FAQ
+  link: /_content/faq.html
