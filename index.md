@@ -2,12 +2,10 @@
 layout: default
 title: Home
 ---
-# {{ "Hello World!" | downcase }}
+# Holly and Max
 
-welcome
+<img src="img.jpg" alt="A cute couple photo" width="200" height="200">
 
-photo
+Welcome to our wedding website!
 
-names
-
-website under construction
+Please check back as we are updating this website with more information.

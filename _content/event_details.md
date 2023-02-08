@@ -4,8 +4,15 @@ title: Event Details
 ---
 # Event Details
 
-This page has the event details.
+Please join us on August 25th, 2023 at 4:30 PM at
+[Eagles Landing at Lake Olathe](https://www.olatheks.gov/government/parks-recreation/parks-trails-bike-lanes/parks/lake-olathe-park/eagles-landing) for our wedding ceremony.
 
-wedding date, time, location
+## Venue
 
-directions and maps
+<address>
+  Eagles Landing at Lake Olathe<br />
+  475 S Wardcliff Dr<br />
+  Olathe, KS 66061
+</address>
+
+[Google Maps](https://goo.gl/maps/k86JS9AMss1KfR7b6)
