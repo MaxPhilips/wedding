@@ -1,11 +1,11 @@
 - name: Home
   link: /
-- name: Event Details
+- name: Event&nbsp;Details
   link: /_content/event_details.html
 - name: Schedule
   link: /_content/schedule.html
-- name: Accomodations
-  link: /_content/accomodations.html
+- name: Hotel
+  link: /_content/hotel.html
 - name: Registry
   link: /_content/registry.html
 - name: RSVP

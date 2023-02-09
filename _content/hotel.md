@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Accomodations
+title: Hotel
 ---
-# Accomodations
+# Hotel
 
 accomodations and room blocks

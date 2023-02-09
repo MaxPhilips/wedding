@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-# Holly and Max
+<h1 class="display-1">Holly and Max</h1>
 
 <img src="img.jpg" alt="A cute couple photo" width="200" height="200">
 
