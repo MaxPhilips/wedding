@@ -1,3 +1,11 @@
 ---
 ---
 @import "main";
+
+.has-background {
+  background-image: url("{{ '/assets/svg/noun-floral-bouquet-4636265.svg' | relative_url }}");
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
