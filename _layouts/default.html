@@ -9,13 +9,11 @@
     <link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
   </head>
   <body>
-    <div class="container has-background">
-      {% include navigation.html %}
-      <div class="container mt-5">
-        <div class="row">
-          <div class="col">
-            {{ content }}
-          </div>
+    {% include navigation.html %}
+    <div class="container mt-5">
+      <div class="row">
+        <div class="col">
+          {{ content }}
         </div>
       </div>
     </div>
