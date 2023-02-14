@@ -1,9 +1,19 @@
 ---
 layout: default
-title: Schedule
+title: Schedule of Events
 ---
-# Schedule
+# Schedule of Events
 
-This page has the schedule.
+4:30 Ceremony
 
-schedule of events
+5:00 Cocktail hour
+
+6:00 Grand entrance
+
+6:10 Dinner
+
+7:00 Reception
+
+9:00 Late night snack
+
+11:30 Last song

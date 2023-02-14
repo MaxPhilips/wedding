@@ -4,22 +4,34 @@ title: FAQ
 ---
 # FAQ
 
-faqs
+##### I have a question that is not covered here
 
-dress code, +1s, questions
+Email Max
 
-indoors/outdoors
+##### What's the dress code?
 
-average weather
+Casual.
 
-will there be transportation
+##### Will we be outdoors?
 
-parking
+The ceremony will be held outdoors. Dinner and the reception will be indoors.
 
-open bar? tip?
+##### What's the weather like?
 
-rsvp deadline
+It will be around 90°F during the ceremony. Historical weather data for the area can be found [here](https://www.wunderground.com/history/daily/us/ks/olathe/KOJC/date/2022-8-25).
 
-how to contact
+##### Will there be transportation to the hotel?
 
-things to do in kc
+Unfortunately no. Uber is available in the area.
+
+##### Where should I park? Can I leave my car overnight?
+
+The venue has a large parking lot. TBD.
+
+##### Is there an open bar? Should I tip?
+
+Yes, the bar is open. We've covered the tips for you!
+
+##### What else can I do in KC?
+
+TBD.

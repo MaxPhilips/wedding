@@ -16,8 +16,8 @@ Please check back as we are updating this website with more information.
     <img src="{{ '/assets/images/hm04.jpg' | relative_url }}" class="img-fluid rounded mb-4">
   </div>
   <div class="col">
+    <img src="{{ '/assets/images/hm07.jpg' | relative_url }}" class="img-fluid rounded mb-4">
     <img src="{{ '/assets/images/hm05.jpg' | relative_url }}" class="img-fluid rounded mb-4">
     <img src="{{ '/assets/images/hm06.jpg' | relative_url }}" class="img-fluid rounded mb-4">
-    <img src="{{ '/assets/images/hm07.jpg' | relative_url }}" class="img-fluid rounded mb-4">
   </div>
 </div>
