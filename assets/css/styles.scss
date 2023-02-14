@@ -3,7 +3,7 @@
 @import "main";
 
 body {
-  background-image: url("{{ '/assets/svg/noun-floral-bouquet-4636265.svg' | relative_url }}");
+  background-image: url("{{ '/assets/images/noun-floral-bouquet-4636265.svg' | relative_url }}");
   background-attachment: fixed;
   background-position: top;
   background-repeat: no-repeat;
