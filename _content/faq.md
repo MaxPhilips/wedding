@@ -4,9 +4,9 @@ title: FAQ
 ---
 # FAQ
 
-##### I have a question that is not covered here
+##### I have a question that is not covered here!
 
-Email Max
+Get in touch with Max.
 
 ##### What's the dress code?
 
@@ -22,7 +22,7 @@ It will be around 90°F during the ceremony. Historical weather data for the are
 
 ##### Will there be transportation to the hotel?
 
-Unfortunately no. Uber is available in the area.
+Unfortunately no. Ride-sharing apps are available in the area.
 
 ##### Where should I park? Can I leave my car overnight?
 
@@ -30,7 +30,7 @@ The venue has a large parking lot. TBD.
 
 ##### Is there an open bar? Should I tip?
 
-Yes, the bar is open. We've covered the tips for you!
+Yes, the bar is open. We've covered the tips for you, but feel free to contribute if you like!
 
 ##### What else can I do in KC?
 

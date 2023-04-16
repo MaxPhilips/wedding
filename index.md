@@ -4,9 +4,9 @@ title: Home
 ---
 <h1 class="display-1">Holly and Max</h1>
 
-Welcome to our wedding website!
+Welcome to our wedding website! Please [RSVP]({{ site.baseurl }}{% link _content/rsvp.md %}) as soon as possible!
 
-Please check back as we are updating this website with more information.
+Be sure to check back as we are update the site with more information.
 
 <div class="row">
   <div class="col">

@@ -6,7 +6,7 @@ title: Schedule of Events
 
 4:30 Ceremony
 
-5:00 Cocktail hour
+5:00 Cocktail hour. Yard games available through the rest of the night.
 
 6:00 Grand entrance
 
