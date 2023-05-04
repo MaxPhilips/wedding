@@ -6,7 +6,7 @@ title: Home
 
 Welcome to our wedding website! Please [RSVP]({{ site.baseurl }}{% link _content/rsvp.md %}) as soon as possible!
 
-Be sure to check back as we are update the site with more information.
+Be sure to check back as we update the site with more information.
 
 <div class="row">
   <div class="col">
