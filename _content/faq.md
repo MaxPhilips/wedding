@@ -34,4 +34,6 @@ Yes, the bar is open. We've covered the tips for you, but feel free to contribut
 
 ##### What else can I do in KC?
 
-TBD.
+* <a href="https://visitkc.com/">Visit KC | Official Tourism Site of Kansas City</a>
+* <a href="https://www.kcur.org/arts-life/2021-08-29/kansas-city-hiking-missouri-trails-guide">A beginner's guide to Kansas City's Best Hiking Trails | KCUR</a>
+* <a href="https://www.instagram.com/lo.kc.al/">A loKCal's guide to Kansas City</a>
