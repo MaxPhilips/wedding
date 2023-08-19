@@ -26,7 +26,7 @@ Unfortunately no. Ride-sharing apps are available in the area.
 
 ##### Where should I park? Can I leave my car overnight?
 
-The venue has a large parking lot. TBD.
+The venue has a large parking lot. Cars may be left overnight but cannot be retrieved until 6 AM on Saturday.
 
 ##### Is there an open bar? Should I tip?
 
